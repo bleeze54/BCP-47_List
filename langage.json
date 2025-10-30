@@ -1,5 +1,7 @@
 [
   {"code": "ar", "name": "Arabic"},
+  {"code": "ar-DZ", "name": "Arabic (Alegeria)"},
+  {"code": "ar-MA", "name": "Arabic (Morocco)"},
   {"code": "ar-SA", "name": "Arabic (Saudi Arabia)"},
   {"code": "bn", "name": "Bangla"},
   {"code": "bn-BD", "name": "Bangla (Bangladesh)"},
